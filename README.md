@@ -88,12 +88,17 @@ Profissional com sólida experiência em Garantia da Qualidade de Dados e Aplica
 - **Segurança e Governança de Dados** com Azure Purview & RBAC
 
 ---
-
-## 📫 Contato
-- LinkedIn: _adicione seu link aqui_  
-- E-mail: _adicione seu e-mail aqui_
-
+## 🧠 Mindset & Propósito
+Minha atuação se estende à aplicação de **Inteligência Artificial**, explorando **LLMs** e **RAG**, com o objetivo de ampliar a eficiência no processamento e análise de informações.  
+Busco transformar **dados brutos em insights estratégicos** e **pipelines eficientes** que gerem valor para consumo analítico e tomada de decisão.  
 ---
+## 📫 Contato
+- celular: (61) 99876-0988
+- E-mail: eduardo.dataengineer@gmail.com
+---
+
+> Meu propósito é alinhar **engenharia de dados, qualidade e inteligência artificial** para entregar soluções **inovadoras, escaláveis e orientadas a impacto**.
+
 
 
  
