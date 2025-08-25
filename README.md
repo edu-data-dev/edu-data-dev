@@ -11,7 +11,7 @@
 
 ##
 <div style="display: flex; align-items: center;">
-<!--<img height="194em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edu-data-dev&layout=compact&langs_count=7&theme=highcontrast" alt="Most Used Languages"/>-->
+<img height="194em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edu-data-dev&layout=compact&langs_count=7&theme=highcontrast" alt="Most Used Languages"/>
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-statsv1.vercel.app?user=edu-data-dev&theme=dark" alt="GitHub Streak" /></a>
   
 </div>
