@@ -1,6 +1,6 @@
 
 
-# Olá! Sou o Eduardo Engenheiro e Analista de Dados <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/microsoft_azure.png" alt="Microsoft Azure" title="Microsoft Azure"/></code>
+# Olá! Sou o Eduardo Alves <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/microsoft_azure.png" alt="Microsoft Azure" title="Microsoft Azure"/></code>
 **Profissional de Tecnologia | QA de Dados | Engenharia & Análise de Dados | Automação & IA**
 <br>
 
