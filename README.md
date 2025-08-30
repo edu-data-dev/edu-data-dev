@@ -89,8 +89,8 @@ Profissional com sólida experiência em Garantia da Qualidade de Dados e Aplica
 
 ---
 ## 🧠 Mindset & Propósito
-Minha atuação se estende à aplicação de **Inteligência Artificial**, explorando **LLMs** e **RAG**, com o objetivo de ampliar a eficiência no processamento e análise de informações.  
-Busco transformar **dados brutos em insights estratégicos** e **pipelines eficientes** que gerem valor para consumo analítico e tomada de decisão.
+Minha atuação integra Engenharia de Dados e Inteligência Artificial, com foco em projetar e otimizar pipelines de dados escaláveis e soluções que potencializem o uso de LLMs e RAG. Meu propósito é transformar dados brutos em ativos inteligentes, estruturando fluxos que garantam qualidade, governança e acessibilidade, de forma a gerar insights estratégicos e sustentar decisões orientadas por dados.
+
 ---
 ## 📫 Contato
 - celular: (61) 99876-0988
